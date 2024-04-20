@@ -28,4 +28,4 @@ DEFAULT_DETECT_IMAGE = IMAGES_DIR / ''
 # ML Model config
 MODEL_DIR = ROOT / 'weights' #Yahan Mujhe Apne Best.pt walay model rakhne Hain
 # DETECTION_MODEL = MODEL_DIR / 'yolov8n.pt'
-SEGMENTATION_MODEL = MODEL_DIR / 'best.pt' #idhr mujhe best.pt wala model lagana hai
+Detection_MODEL = MODEL_DIR / 'best.pt' #idhr mujhe best.pt wala model lagana hai

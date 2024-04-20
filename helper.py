@@ -1,6 +1,6 @@
 
 from ultralytics import YOLO
-import settings
+import setting
 
 
 def load_model(model_path):
